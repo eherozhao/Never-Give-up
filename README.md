@@ -1,7 +1,8 @@
 # Never-Give-up
 A website about my muscle building plan
 I show this page by Glitch:
-https://glitch.com/~muscle-building-plan
+https://muscle-building-plan.glitch.me/
+
 
 ![image](http://github.com/eherozhao/Never-Give-up/raw/master/screenshot/1.jpg)
 ![image](http://github.com/eherozhao/Never-Give-up/raw/master/screenshot/2.jpg)
