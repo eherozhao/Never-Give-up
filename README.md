@@ -3,6 +3,7 @@ A website about my muscle building plan
 I show this page by Glitch:
 https://muscle-building-plan.glitch.me/
 
+<img src="http://github.com/eherozhao/Never-Give-up/raw/master/screenshot/1.jpg" width = "600" alt="login" align=center/>
 
 ![image](http://github.com/eherozhao/Never-Give-up/raw/master/screenshot/1.jpg)
 ![image](http://github.com/eherozhao/Never-Give-up/raw/master/screenshot/2.jpg)
